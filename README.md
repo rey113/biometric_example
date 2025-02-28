@@ -147,7 +147,6 @@ class MainActivity: FlutterFragmentActivity() {
 
 ## Flowchart
 
-![Biometric Authentication Flowchart](assets/biometric_auth_flowchart.png)
 ![Biometric Authentication Flowchart](https://github.com/yourusername/yourrepo/raw/main/assets/biometric_auth_flowchart.png)
 
 
