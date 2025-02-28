@@ -24,6 +24,7 @@ dev_dependencies:
   flutter_lints: ^4.0.0
 
 flutter:
-
+  assets:
+    - assets/biometric_auth_flowchart.png
 
   uses-material-design: true
